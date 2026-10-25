@@ -12,3 +12,5 @@
 *.out
 *.toc
 index.tex
+
+**/*.quarto_ipynb
