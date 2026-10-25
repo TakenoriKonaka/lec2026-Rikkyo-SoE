@@ -1,0 +1,14 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+/.quarto/
+/_book/
+
+# LaTeX artifacts
+*.log
+*.aux
+*.out
+*.toc
+index.tex

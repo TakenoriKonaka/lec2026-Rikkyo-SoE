@@ -1,0 +1,53 @@
+project:
+  type: book
+  output-dir: docs
+  resources:
+    - "*_slide.html"
+    - "fig/"
+    - "cover.png"
+
+book:
+  title: "立教大学 教育社会学 (2026年度)"
+  author: "胡中孟徳"
+  date: "2026/9/21"
+  chapters:
+    - index.qmd # 0
+    - 1_intro.qmd # 1
+    - Education_in_Society.qmd              # 2 教育社会学と社会の中の教育
+    - Socialization_Curriculum_Class_Revised.qmd    # 3 社会化（1）：カリキュラムと知識
+    - Socialization_Gender_Education.qmd    # 4 社会化（2）：教育とジェンダー
+    - Socialization_Family_Children.qmd     # 5 社会化（3）：家族と子ども
+    - Selection_Educational_Meritocracy.qmd # 6 選抜と配分（1）：メリトクラシーと学歴
+    - Selection_Stratification.qmd          # 7 選抜と配分（2）：教育と社会階層、学力の階層差
+    - Selection_EntranceExam_Labor.qmd      # 8 選抜と配分（3）：入試と選抜、学歴社会論と就職
+    - Area_Education.qmd # 地域と学校
+    - Exclusion_Poverty.qmd                 # 9 排除と包摂・逸脱（1）：子どもの貧困
+    # 10 排除と包摂・逸脱（2）：マイノリティと教育
+    - Exclusion_Delinquency.qmd             # 11 排除と包摂・逸脱（3）：逸脱と非行
+    # - Institution_School.qmd # 12 教育制度と政策（1）：組織としての学校
+    - Institution_Teacher.qmd               # 13 教育制度と政策（2）：教師と学校
+    - Institution_Policy.qmd # 14 教育制度と政策（3）：教育政策とエビデンス
+    # - # まとめ
+    
+    # 15分から20分程度で、スライドの転記は完了
+    
+    - 1_test.qmd
+    - intro.qmd
+    - summary.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    toc-location: right
+    toc-depth: 3
+    number-sections: true
+    number-depth: 2
+
+format-links: false
+revealjs:
+  chalkboard: 
+    buttons: true
