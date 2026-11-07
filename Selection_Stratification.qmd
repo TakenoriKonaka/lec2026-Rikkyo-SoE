@@ -12,6 +12,17 @@ title: "選抜と配分（2）：教育と社会階層、学力の階層差"
 [🔗 スライドを別タブで大きく開く](Selection_Stratification_slide.html){target="_blank"}
 
 
+### 映像資料：進学校・受験文化に見る社会化
+
+高校での受験指導や進路への水路づけが、いかに生徒の身体や意識を規律化しているかを示す映像資料です。
+
+::: {layout-ncol=2}
+{{< video https://youtu.be/jGK_OW8RiVA?si=2NAKnPtaNRfLa5YS aspect-ratio="9x16" width="300" >}}
+
+{{< video https://youtu.be/BHnOGOJwjbo?si=gwwVxnpUEJ6D48HX aspect-ratio="9x16" width="300" >}}
+:::
+
+
 ## 今日の目標
 
 今回のテーマは、【教育と格差(1)：出身家庭と教育達成】

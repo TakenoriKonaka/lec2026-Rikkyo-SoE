@@ -57,6 +57,10 @@ In contemporary society, a reciprocal relationship exists between education and 
 |  | 小レポート | 20 % | 
 |  | 最終テスト | 40 % | 
 
+### 小レポート: 現代の教育社会学的研究の読解と展開
+
+{{< include report/announcement_report.qmd >}}
+
 
 ## テキスト
 
