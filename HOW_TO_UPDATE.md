@@ -85,3 +85,5 @@ quarto preview
   - スライドファイル（`*_slide.qmd`）を編集した場合は、必ずスライド単体のレンダリング（`quarto render [スライド名].qmd`）を行ってから、`quarto render` を実行してください。
 - **Q. `quarto render` でエラーが出る**
   - ルートディレクトリに古いチャプターHTML（`Socialization_Family_Children.html` など）が残っていると競合することがあります。その場合はルート直下のスライド以外のHTMLを削除してから再度お試しください。
+- **スライドの再生成**
+  - `Get-ChildItem *_slide.qmd | ForEach-Object { quarto render $_.Name }`ですべてのスライドを再生成.
