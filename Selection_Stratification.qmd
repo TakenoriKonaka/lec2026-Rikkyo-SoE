@@ -61,7 +61,7 @@ title: "選抜と配分（2）：教育と社会階層、学力の階層差"
 ::: {.callout-note collapse="true"}
 ## 具体的なコメント一覧
 
-{{< include comments/6_1.qmd >}}
+{{< include comments/6_2.qmd >}}
 
 :::
 

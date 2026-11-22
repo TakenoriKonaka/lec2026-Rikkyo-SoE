@@ -20,7 +20,7 @@ book:
     - Selection_Educational_Meritocracy.qmd # 6 選抜と配分（1）：メリトクラシーと学歴
     - Selection_Stratification.qmd          # 7 選抜と配分（2）：教育と社会階層、学力の階層差
     - Selection_EntranceExam_Labor.qmd      # 8 選抜と配分（3）：入試と選抜、学歴社会論と就職
-    - Area_Education.qmd # 地域と学校
+    # - Area_Education.qmd # 地域と学校（2026年度は授業回数の関係でカット・参考資料扱い）
     - Exclusion_Poverty.qmd                 # 9 排除と包摂・逸脱（1）：子どもの貧困
     # 10 排除と包摂・逸脱（2）：マイノリティと教育
     - Exclusion_Delinquency.qmd             # 11 排除と包摂・逸脱（3）：逸脱と非行
